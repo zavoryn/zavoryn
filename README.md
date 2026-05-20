@@ -59,8 +59,8 @@
 
 📄 **Latest:** [从操作系统理解 AI Agent：进程、系统调用与上下文窗口](https://juejin.cn/post/7639990783446728746)
 
-- [掘金主页](https://juejin.cn/user/1329749731578971) — AI Agent · 系统设计 · 后端工程
-- [CSDN 主页](https://blog.csdn.net/qq_62915969?type=blog) — 全栈开发 · AI Agent · 工程实践
+- [掘金主页](https://juejin.cn/user/1329749731578971) — Agent 知识学习与分享
+- [CSDN 主页](https://blog.csdn.net/qq_62915969?type=blog) — Agent 知识学习与分享
 
 ---
 
