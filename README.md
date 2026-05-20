@@ -4,7 +4,7 @@
 
 # zavoryn
 
-*Bridging Enterprise Java Architecture with AI-Native Workflows.*
+*Full-stack developer · AI-powered · Exploring agents*
 
 [![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
 [![Juejin](https://img.shields.io/badge/掘金-zavoryn-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
@@ -14,12 +14,12 @@
 
 ---
 
-**About**
+**About Me**
 
-- ⚙️ Enterprise Java engineer — distributed systems · event-driven architecture · high-concurrency
-- 🤖 AI agent builder — LLM evaluation · multi-modal analysis · automated AI workflows
+- 🛠️ Full-stack developer — using AI to ship faster
+- 🤖 Exploring AI agents and agentic workflows
 
-> Building the infrastructure layer between enterprise Java systems and AI-native workflows.
+> 全栈开发者，借助 AI 构建应用，持续探索 Agent 方向。
 
 ---
 
