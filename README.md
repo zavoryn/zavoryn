@@ -7,8 +7,8 @@
 *Full-stack developer · AI-powered · Exploring agents*
 
 [![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
-[![Juejin](https://img.shields.io/badge/掘金-zavoryn-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
 [![CSDN](https://img.shields.io/badge/CSDN-zavoryn-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
+[![Juejin](https://img.shields.io/badge/掘金-zavoryn-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
 
 </div>
 
