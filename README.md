@@ -22,7 +22,7 @@
 
 - [CSDN 主页](https://blog.csdn.net/qq_62915969?type=blog) — Agent 知识学习与分享
   <!-- CSDN-STATS:START -->
-  ![](https://img.shields.io/badge/阅读-4.3k-2088FF?style=flat-square&logo=readthedocs&logoColor=white) ![](https://img.shields.io/badge/点赞-134-FF6B6B?style=flat-square&logo=thumbsup&logoColor=white) ![](https://img.shields.io/badge/收藏-96-FFD700?style=flat-square&logo=star&logoColor=white)
+  ![](https://img.shields.io/badge/阅读-4.3k-2088FF?style=flat-square&logo=readthedocs&logoColor=white) ![](https://img.shields.io/badge/点赞-135-FF6B6B?style=flat-square&logo=thumbsup&logoColor=white) ![](https://img.shields.io/badge/收藏-96-FFD700?style=flat-square&logo=star&logoColor=white)
 <!-- CSDN-STATS:END -->
 - [掘金主页](https://juejin.cn/user/1329749731578971) — Agent 知识学习与分享
 
