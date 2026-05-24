@@ -18,7 +18,7 @@
 
 📝 Writing about backend engineering and AI Agent systems.
 
-📄 **Latest:** [从操作系统理解 AI Agent：进程、系统调用与上下文窗口](https://juejin.cn/post/7639990783446728746)
+📄 **Latest:** [从操作系统看 Multi-Agent 协作：角色、调度与交接协议](https://blog.csdn.net/qq_62915969/article/details/161366233)
 
 - [CSDN 主页](https://blog.csdn.net/qq_62915969?type=blog) — Agent 知识学习与分享
   <!-- CSDN-STATS:START -->
