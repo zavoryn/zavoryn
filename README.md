@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
 [![CSDN](https://img.shields.io/badge/CSDN-zavoryn-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
-[![Juejin](https://img.shields.io/badge/掘金-zavoryn-007FFF?style=for-the-badge&logo=bytedance&logoColor=white)](https://juejin.cn/user/1329749731578971)
 
 </div>
 
@@ -24,7 +23,7 @@
   <!-- CSDN-STATS:START -->
   ![](https://img.shields.io/badge/阅读-1.6w-2088FF?style=flat-square&logo=readthedocs&logoColor=white) ![](https://img.shields.io/badge/点赞-445-FF6B6B?style=flat-square&logo=thumbsup&logoColor=white) ![](https://img.shields.io/badge/收藏-194-FFD700?style=flat-square&logo=star&logoColor=white)
 <!-- CSDN-STATS:END -->
-- [掘金主页](https://juejin.cn/user/1329749731578971) — Agent 知识学习与分享
+
 
 ---
 
