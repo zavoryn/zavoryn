@@ -21,7 +21,7 @@
 
 - [CSDN 主页](https://blog.csdn.net/qq_62915969?type=blog) — Agent 知识学习与分享
   <!-- CSDN-STATS:START -->
-  ![](https://img.shields.io/badge/阅读-1.7w-2088FF?style=flat-square&logo=readthedocs&logoColor=white) ![](https://img.shields.io/badge/点赞-495-FF6B6B?style=flat-square&logo=thumbsup&logoColor=white) ![](https://img.shields.io/badge/收藏-216-FFD700?style=flat-square&logo=star&logoColor=white)
+  ![](https://img.shields.io/badge/阅读-1.7w-2088FF?style=flat-square&logo=readthedocs&logoColor=white) ![](https://img.shields.io/badge/点赞-496-FF6B6B?style=flat-square&logo=thumbsup&logoColor=white) ![](https://img.shields.io/badge/收藏-216-FFD700?style=flat-square&logo=star&logoColor=white)
 <!-- CSDN-STATS:END -->
 
 
