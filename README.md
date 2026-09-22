@@ -4,7 +4,7 @@
 
 # zavoryn
 
-*Full-stack developer · AI-powered · Exploring agents*
+*Full-stack developer · AI-powered · Exploring agents* 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
 [![CSDN](https://img.shields.io/badge/CSDN-zavoryn-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
