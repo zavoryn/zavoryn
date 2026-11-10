@@ -59,21 +59,14 @@ def update_readme(stats):
     collects = stats.get("收藏", "0")
     views = format_views(views_raw)
 
-    badges = (
-        f"  ![](https://img.shields.io/badge/阅读-{views}-2088FF"
-        f"?style=flat-square&logo=readthedocs&logoColor=white) "
-        f"![](https://img.shields.io/badge/点赞-{likes}-FF6B6B"
-        f"?style=flat-square&logo=thumbsup&logoColor=white) "
-        f"![](https://img.shields.io/badge/收藏-{collects}-FFD700"
-        f"?style=flat-square&logo=star&logoColor=white)"
-    )
+    line = f"  阅读 {views} · 点赞 {likes} · 收藏 {collects}"
 
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
     new_content = re.sub(
         r'(<!-- CSDN-STATS:START -->\n).*?(<!-- CSDN-STATS:END -->)',
-        f'\\1{badges}\n\\2',
+        f'\\1{line}\n\\2',
         content,
         flags=re.DOTALL,
     )

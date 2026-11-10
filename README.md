@@ -1,33 +1,11 @@
-<div align="center">
+<p align="center">
+  <img src="assets/terminal.svg" width="800" alt="zavoryn@github — Full-stack developer · AI-powered · Exploring agents">
+</p>
 
-![](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2333&height=4)
-
-# zavoryn
-
-*Full-stack developer · AI-powered · Exploring agents* 🚀
-
-[![GitHub](https://img.shields.io/badge/GitHub-zavoryn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zavoryn)
-[![CSDN](https://img.shields.io/badge/CSDN-zavoryn-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_62915969?type=blog)
-
-</div>
-
----
-
-## Blog & Writing
-
-📝 Writing about backend engineering and AI Agent systems.
-
-📄 **Latest:** [用操作系统类比彻底搞懂 AI Agent：进程、系统调用与上下文窗口](https://blog.csdn.net/qq_62915969/article/details/161120533)
-
-- [CSDN 主页](https://blog.csdn.net/qq_62915969?type=blog) — Agent 知识学习与分享
+<p align="center">
+  Latest — <a href="https://blog.csdn.net/qq_62915969/article/details/161120533">用操作系统类比彻底搞懂 AI Agent：进程、系统调用与上下文窗口</a><br>
+  <a href="https://blog.csdn.net/qq_62915969?type=blog">CSDN</a> ·
   <!-- CSDN-STATS:START -->
-  ![](https://img.shields.io/badge/阅读-2.9w-2088FF?style=flat-square&logo=readthedocs&logoColor=white) ![](https://img.shields.io/badge/点赞-704-FF6B6B?style=flat-square&logo=thumbsup&logoColor=white) ![](https://img.shields.io/badge/收藏-311-FFD700?style=flat-square&logo=star&logoColor=white)
+  阅读 2.9w · 点赞 704 · 收藏 311
 <!-- CSDN-STATS:END -->
-
-
----
-
-![Views](https://komarev.com/ghpvc/?username=zavoryn&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=80&section=footer)
-
+</p>
