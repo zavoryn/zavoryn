@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="t d">
 <title id="t">zavoryn — terminal profile card</title>
-<desc id="d">zavoryn. Role: Full-stack developer, AI-powered. Focus: Backend engineering and agent systems. Stack: Java, Python. Open source: Nacos, Spring AI Alibaba. Now: Exploring agents.</desc>
+<desc id="d">zavoryn. Role: Backend developer, AI-powered. Focus: Backend engineering and agent systems. Stack: Java, Python. Open source: Nacos, Spring AI Alibaba. Now: Exploring agents.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e131a"/><stop offset="1" stop-color="#080b10"/></linearGradient>
 <linearGradient id="lit" gradientUnits="userSpaceOnUse" x1="0" y1="104" x2="0" y2="328.0"><stop offset="0" stop-color="#c6f8e4"/><stop offset="1" stop-color="#4fdcaa"/></linearGradient>
@@ -40,7 +40,7 @@
 
 <text x="300" y="130" class="m b" font-size="21" fill="#6ee7b7">zavoryn</text>
 <rect x="300" y="144" width="356" height="1" fill="#2a3542"/>
-<text x="300" y="176" class="m b" font-size="16" fill="#6ee7b7">Role</text><text x="424" y="176" class="m" font-size="16" fill="#d6dde8">Full-stack developer · AI-powered</text><text x="300" y="205" class="m b" font-size="16" fill="#6ee7b7">Focus</text><text x="424" y="205" class="m" font-size="16" fill="#d6dde8">Backend engineering · Agent systems</text><text x="300" y="234" class="m b" font-size="16" fill="#6ee7b7">Stack</text><text x="424" y="234" class="m" font-size="16" fill="#d6dde8">Java · Python</text><text x="300" y="263" class="m b" font-size="16" fill="#6ee7b7">Open Source</text><text x="424" y="263" class="m" font-size="16" fill="#d6dde8">Nacos · Spring AI Alibaba</text><text x="300" y="292" class="m b" font-size="16" fill="#6ee7b7">Now</text><text x="424" y="292" class="m" font-size="16" fill="#d6dde8">Exploring agents</text>
+<text x="300" y="176" class="m b" font-size="17" fill="#6ee7b7">Role</text><text x="382" y="176" class="m" font-size="17" fill="#d6dde8">Backend developer · AI-powered</text><text x="300" y="205" class="m b" font-size="17" fill="#6ee7b7">Focus</text><text x="382" y="205" class="m" font-size="17" fill="#d6dde8">Backend engineering · Agent systems</text><text x="300" y="234" class="m b" font-size="17" fill="#6ee7b7">Stack</text><text x="382" y="234" class="m" font-size="17" fill="#d6dde8">Java · Python</text><text x="300" y="263" class="m b" font-size="17" fill="#6ee7b7">OSS</text><text x="382" y="263" class="m" font-size="17" fill="#d6dde8">Nacos · Spring AI Alibaba</text><text x="300" y="292" class="m b" font-size="17" fill="#6ee7b7">Now</text><text x="382" y="292" class="m" font-size="17" fill="#d6dde8">Exploring agents</text>
 <g clip-path="url(#pal)"><rect x="300" y="312" width="30" height="12" fill="#f87171"/><rect x="330" y="312" width="30" height="12" fill="#fb923c"/><rect x="360" y="312" width="30" height="12" fill="#facc15"/><rect x="390" y="312" width="30" height="12" fill="#6ee7b7"/><rect x="420" y="312" width="30" height="12" fill="#67e8f9"/><rect x="450" y="312" width="30" height="12" fill="#7aa2f7"/><rect x="480" y="312" width="30" height="12" fill="#c4a7f5"/><rect x="510" y="312" width="30" height="12" fill="#e5e9f0"/></g>
 
 <text x="44" y="366" class="m" font-size="16" fill="#6ee7b7">~ %</text>
